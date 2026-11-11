@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "cycle": "Fall 2026 PDR",
+  "documents": [
+    {
+      "filename": "ActiveTextilesLunarDust_PDR_GradingRubric_Fall2026.pdf",
+      "sha256": "7e808249c191d1fe29825431f560408b80f4059fb60f13aee213f5ad57434074",
+      "pages": 2
+    },
+    {
+      "filename": "CATENA_PDR_GradingRubric_Fall2026.pdf",
+      "sha256": "a68be22619bbcf8bb3988db321862369a41792557179e919ea393425cd512297",
+      "pages": 1
+    }
+  ],
+  "duplicates": [],
+  "pages": [
+    {
+      "id": "7e808249c191d1fe-p1",
+      "filename": "ActiveTextilesLunarDust_PDR_GradingRubric_Fall2026.pdf",
+      "source_sha256": "7e808249c191d1fe29825431f560408b80f4059fb60f13aee213f5ad57434074",
+      "page": 1,
+      "image": "sources/7e808249c191d1fe/page-1.png",
+      "text": "sources/7e808249c191d1fe/page-1.txt",
+      "team": null,
+      "extraction": null,
+      "review": null
+    },
+    {
+      "id": "7e808249c191d1fe-p2",
+      "filename": "ActiveTextilesLunarDust_PDR_GradingRubric_Fall2026.pdf",
+      "source_sha256": "7e808249c191d1fe29825431f560408b80f4059fb60f13aee213f5ad57434074",
+      "page": 2,
+      "image": "sources/7e808249c191d1fe/page-2.png",
+      "text": "sources/7e808249c191d1fe/page-2.txt",
+      "team": null,
+      "extraction": null,
+      "review": null
+    },
+    {
+      "id": "a68be22619bbcf8b-p1",
+      "filename": "CATENA_PDR_GradingRubric_Fall2026.pdf",
+      "source_sha256": "a68be22619bbcf8bb3988db321862369a41792557179e919ea393425cd512297",
+      "page": 1,
+      "image": "sources/a68be22619bbcf8b/page-1.png",
+      "text": "sources/a68be22619bbcf8b/page-1.txt",
+      "team": null,
+      "extraction": null,
+      "review": null
+    }
+  ]
+}

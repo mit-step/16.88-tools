@@ -1,0 +1,13 @@
+16.88J/MAS868 Microgravity Flight Course - PDR rubric Student/Team Name: ___Active Textiles: Lunar Dust Team_________________________________ Reviewer Name: __Newman, Fincke, Hoffman, Schmidt________________________________  
+Complete? 
+Good quality, rigorous and convincing or needs more work? Notes Org Chart X Nice  Overview of concept and project merit (scientific/design/artistic) X X Unclear on which fabrics, methods were chosen. 
+Baseline design (should include CAD, and electrical system block diagram at minimum) 
+X  Missing a few details. 
+ConOps (clear operation plan through parabola switches and flight profile) 
+X  Not clear how the cleaning phase works. A diagram of actual ops – where is the experiment? Where are the people? How do you actually assure that the dust reaches the sample? Safety (clearly addressed any hazards and mitigation approaches) 
+X X Needs to be a closed system, testing of a closed system 
+Work schedule (feasible, shows realistic path to completion and flight readiness) 
+  Need a work schedule. 
+Prototype (mockup/proof of concept artifact, illustrative of final design) 
+X X Good initial mass mock-ups and start to the system. 
+ General notes: Lunar simulant probably doesn’t mimic fractal nature of dust. What dust simulant and how comparable is it? Careful of the use of acronyms (EDS, EDC, PCB). The ‘open questions’ you posted are good at this stage (PDR) leading to the CDR. 

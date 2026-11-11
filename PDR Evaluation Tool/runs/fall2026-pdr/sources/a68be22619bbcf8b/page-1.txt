@@ -1,0 +1,11 @@
+16.88J/MAS868 Microgravity Flight Course - PDR rubric Student/Team Name: __CATENA. Universal Self-Folding Strings for Programmable Assembly in Microgravity Reviewer Name:  __Newman, Fincke, Hoffman, Schmidt______________  
+Complete? 
+Good quality, rigorous and convincing or needs more work? Notes Org Chart   Introduce team upfront. Slide 17?) Overview of concept and project merit (scientific/design/artistic) X X Many Applications listed. Will need to choose final for CDR. 
+Baseline design (should include CAD, and electrical system block diagram at minimum) 
+X X Excellent CAD. Detailed electronics (couldn’t read) can go in to Appendix/backup. Why those specific folding sequences? What is new? ConOps (clear operation plan through parabola switches and flight profile) 
+X  Need to plan for pullout 0-2G. Can improve ConOps by adding the operator/human position(s) and role(s). Safety (clearly addressed any hazards and mitigation approaches) 
+  Need to plan for pullout 0-2G. Reviewers suggested further considering a net and an enclosed volume.  Work schedule (feasible, shows realistic path to completion and flight readiness) 
+X X Ran out of time, but in slide deck. 
+Prototype (mockup/proof of concept artifact, illustrative of final design) 
+X X Excellent.  
+ General notes: How will you handle 2G during parabolic flight? Presentation too long, practice timing and clarity for CDR. The R&D Simulation Environment is a nice additional element (verification and validation, V&V).  

@@ -1,0 +1,11 @@
+16.88J/MAS868 Microgravity Flight Course - PDR rubric Student/Team Name: __Lumbar Puncture in Weightlessness Reviewer Name:  __Newman, Fincke, Hoffman, Schmidt______________  
+Complete? 
+Good quality, rigorous and convincing or needs more work? Notes Org Chart X X  Overview of concept and project merit (scientific/design/artistic) X X Great Overview section. References well presented. 
+Good/clear Introduction. Statement of problem-specify phenomenon is for ‘some’ astronauts. Baseline design (should include CAD, and electrical system block diagram at minimum) 
+X X Well described. Nice GUI Only 1 LP during parabolic flight? Clarify. Will 1 LP on the ground and 1 LP inflight provide you with sufficient data? ConOps (clear operation plan through parabola switches and flight profile) 
+X X Ops clearly shown Review ISS videos on these types of Ops. Better understanding of operator position and others. How long does the procedure take? Safety (clearly addressed any hazards and mitigation approaches) 
+X X Good. Slide 11 Tether might complicate your experiment. What happens if needles break? Spare parts? Work schedule (feasible, shows realistic path to completion and flight readiness) 
+X X  
+Prototype (mockup/proof of concept artifact, illustrative of final design) 
+X X  
+ General notes: Measuring stress on operator before and after measurements. Answered  questions well. Good presentation and excellent time management. Suggest duct tape to manage all of your items in the glove box (sticky side up). Also, pay attention to the gloves.  

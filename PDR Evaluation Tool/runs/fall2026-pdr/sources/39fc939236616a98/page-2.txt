@@ -1,0 +1,1 @@
+General notes: How will errors be measured? Assume this is an attached payload. Need to look at response vs. frequency. Reviewers questions: Frequency and ConOps. What frequency problems are you trying to solve?  

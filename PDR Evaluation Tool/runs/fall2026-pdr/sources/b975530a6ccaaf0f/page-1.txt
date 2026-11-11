@@ -1,0 +1,13 @@
+16.88J/MAS868 Microgravity Flight Course - PDR rubric Student/Team Name: ___Phytogarden_________________________________ Reviewer Name:  __Newman, Fincke, Hoffman, Schmidt______________  
+Complete? 
+Good quality, rigorous and convincing or needs more work? Notes Org Chart - -  Not included. Please introduce you team and their roles. Overview of concept and project merit (scientific/design/artistic) X X It is not clear what 0G tests are required. Good images/inspiration. Please cite References. Baseline design (should include CAD, and electrical system block diagram at minimum) 
+ What slides comprise your Baseline design, 7-14? 
+ Spell out TPMS as much of the audience might not be familiar. ConOps (clear operation plan through parabola switches and flight profile) 
+- Too many slides we didn’t get to. Not clear. State your specific ConOps. How to test? What is the test apparatus? Safety (clearly addressed any hazards and mitigation approaches) 
+- Need to provide a safety slide/analysis/mitigation 
+Necessary element missing from PDR. 
+Work schedule (feasible, shows realistic path to completion and flight readiness) 
+ -  Necessary element missing from PDR. 
+Prototype (mockup/proof of concept artifact, illustrative of final design) 
+X  Nice geometrical prototypes 
+ General notes: Separate your air and water channels. Need a brief 8-10 Summary slide deck and put the additional slides/ideas/drawings in an Appendix. All of the required elements need to be included in the CDR. You’ve done a lot of background research, but need to make progress on final designs, microgravity justification, measurements, ConOps, safety, etc.  

@@ -1,0 +1,11 @@
+16.88J/MAS868 Microgravity Flight Course - PDR rubric Student/Team Name: _Hexapod___________________________________ Reviewer Name:  __Newman, Fincke, Hoffman, Schmidt______________  
+Complete? 
+Good quality, rigorous and convincing or needs more work? Notes Org Chart X X Good job on including the whole team. Overview of concept and project merit (scientific/design/artistic) X  A bit rushed. Unclear. Justify and state frequency applicability for vibration damping. Clarify problem statement – what is the vibration control for? Select specific application for CDR. Baseline design (should include CAD, and electrical system block diagram at minimum) 
+X X Good slide Req’s for Success and Hypotheses stated. Include text on CAD to explain. Your Budget slide had a nice CAD/text diagram. ConOps (clear operation plan through parabola switches and flight profile) 
+  What is the source of vibrations? Ops during micro and high G – motion sickness risk. How many operators, location, what/where is the payload location? Are there 2 controllers for 0G and 1.8G? Safety (clearly addressed any hazards and mitigation approaches) 
+X X Clear. ESDP draft linked, great. 
+Work schedule (feasible, shows realistic path to completion and flight readiness) 
+X X  
+Prototype (mockup/proof of concept artifact, illustrative of final design) 
+X X Enjoyed a working prototype and functional design. 
+ 

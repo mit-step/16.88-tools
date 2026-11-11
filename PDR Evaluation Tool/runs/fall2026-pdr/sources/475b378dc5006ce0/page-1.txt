@@ -1,0 +1,13 @@
+16.88J/MAS868 Microgravity Flight Course - PDR rubric Student/Team Name: ___VITABee Transfer: Holding and releasing a rotating cylinder in microgravity_________________________________ Reviewer Name: __Newman, Fincke, Hoffman, Schmidt________________________________  
+Complete? 
+Good quality, rigorous and convincing or needs more work? Notes Org Chart X  Include everyone’s photo Overview of concept and project merit (scientific/design/artistic) X Improvement suggested Spent a lot of time on this. Will the cylinder have wax? Clearly explain the need for microgravity assessment. References needed. Baseline design (should include CAD, and electrical system block diagram at minimum) 
+X Extensive Requirements shown (put most in an Appendix, ESDP) 
+Block diagram and CAD shown. 
+ConOps (clear operation plan through parabola switches and flight profile) 
+X Hard to read. Many pages. Consider a 1 page ConOps Diagram to summarize for the CDR w/ complete ConOps in the ESDP. Very hard to achieve 3 tries/parabola. Consider 1/parabola. Safety (clearly addressed any hazards and mitigation approaches) 
+ Needs to be covered.  
+Work schedule (feasible, shows realistic path to completion and flight readiness) 
+X   
+Prototype (mockup/proof of concept artifact, illustrative of final design) 
+X  Good 
+ 

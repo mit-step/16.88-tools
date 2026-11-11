@@ -1,0 +1,502 @@
+{
+  "version": 2,
+  "cycle": "Fall 2026 PDR",
+  "documents": [
+    {
+      "id": "7e808249c191d1fe29825431f560408b80f4059fb60f13aee213f5ad57434074",
+      "filename": "ActiveTextilesLunarDust_PDR_GradingRubric_Fall2026.pdf",
+      "uploaded": "20261110T224601359802Z",
+      "origin": "supplied reviews",
+      "pages": [
+        {
+          "number": 1,
+          "team": "active-textiles",
+          "mapping_basis": "Name in rubric or filename",
+          "verified": false,
+          "method": "native_table",
+          "limitations": "Text and column extraction need instructor review.",
+          "comments": [
+            {
+              "category": "Org Chart",
+              "text": "",
+              "complete": "X",
+              "quality": "Nice",
+              "kind": "faculty"
+            },
+            {
+              "category": "Overview",
+              "text": "Unclear on which fabrics, methods were chosen.",
+              "complete": "X",
+              "quality": "X",
+              "kind": "faculty"
+            },
+            {
+              "category": "Baseline design",
+              "text": "Missing a few details.",
+              "complete": "X",
+              "quality": "",
+              "kind": "faculty"
+            },
+            {
+              "category": "ConOps",
+              "text": "Not clear how the cleaning phase works. A diagram of actual ops – where is the experiment? Where are the people? How do you actually assure that the dust reaches the sample?",
+              "complete": "X",
+              "quality": "",
+              "kind": "faculty"
+            },
+            {
+              "category": "Safety",
+              "text": "Needs to be a closed system, testing of a closed system",
+              "complete": "X",
+              "quality": "X",
+              "kind": "faculty"
+            },
+            {
+              "category": "Work schedule",
+              "text": "Need a work schedule.",
+              "complete": "",
+              "quality": "",
+              "kind": "faculty"
+            },
+            {
+              "category": "Prototype",
+              "text": "Good initial mass mock-ups and start to the system.",
+              "complete": "X",
+              "quality": "X",
+              "kind": "faculty"
+            },
+            {
+              "category": "General notes",
+              "text": "Lunar simulant probably doesn’t mimic fractal nature of dust. What dust simulant and how comparable is it? Careful of the use of acronyms (EDS, EDC, PCB). The ‘open questions’ you posted are good at this stage (PDR) leading to the CDR.",
+              "complete": "",
+              "quality": "",
+              "kind": "faculty"
+            }
+          ],
+          "text": "16.88J/MAS868 Microgravity Flight Course - PDR rubric\nStudent/Team Name: ___Active Textiles: Lunar Dust Team_________________________________\nReviewer Name: __Newman, Fincke, Hoffman, Schmidt________________________________\nGood quality,\nrigorous and\nconvincing or\nneeds more\nComplete? work? Notes\nOrg Chart X Nice\nOverview of concept and X X Unclear on which fabrics,\nproject merit methods were chosen.\n(scientific/design/artistic)\nBaseline design X Missing a few details.\n(should include CAD, and\nelectrical system block\ndiagram at minimum)\nConOps X Not clear how the cleaning\n(clear operation plan through phase works. A diagram of\nparabola switches and flight actual ops – where is the\nprofile) experiment? Where are the\npeople? How do you actually\nassure that the dust reaches\nthe sample?\nSafety X X Needs to be a closed system,\n(clearly addressed any testing of a closed system\nhazards and mitigation\napproaches)\nWork schedule Need a work schedule.\n(feasible, shows realistic\npath to completion and flight\nreadiness)\nPrototype X X Good initial mass mock-ups\n(mockup/proof of concept and start to the system.\nartifact, illustrative of final\ndesign)\nGeneral notes: Lunar simulant probably doesn’t mimic fractal nature of dust. What dust\nsimulant and how comparable is it? Careful of the use of acronyms (EDS, EDC, PCB). The\n‘open questions’ you posted are good at this stage (PDR) leading to the CDR.",
+          "reviewer": "As listed on original source"
+        },
+        {
+          "number": 2,
+          "team": null,
+          "mapping_basis": "Unidentified",
+          "verified": false,
+          "method": "scan_pending",
+          "limitations": "Scan/handwriting has not been transcribed.",
+          "comments": [],
+          "text": "",
+          "reviewer": "As listed on original source"
+        }
+      ],
+      "source_type": "consolidated"
+    },
+    {
+      "id": "a68be22619bbcf8bb3988db321862369a41792557179e919ea393425cd512297",
+      "filename": "CATENA_PDR_GradingRubric_Fall2026.pdf",
+      "uploaded": "20261110T224601597492Z",
+      "origin": "supplied reviews",
+      "pages": [
+        {
+          "number": 1,
+          "team": "catena",
+          "mapping_basis": "Name in rubric or filename",
+          "verified": false,
+          "method": "native_table",
+          "limitations": "Text and column extraction need instructor review.",
+          "comments": [
+            {
+              "category": "Org Chart",
+              "text": "Introduce team upfront. Slide 17?)",
+              "complete": "",
+              "quality": "",
+              "kind": "faculty"
+            },
+            {
+              "category": "Overview",
+              "text": "Many Applications listed. Will need to choose final for CDR.",
+              "complete": "X",
+              "quality": "X",
+              "kind": "faculty"
+            },
+            {
+              "category": "Baseline design",
+              "text": "Excellent CAD. Detailed electronics (couldn’t read) can go in to Appendix/backup. Why those specific folding sequences? What is new?",
+              "complete": "X",
+              "quality": "X",
+              "kind": "faculty"
+            },
+            {
+              "category": "ConOps",
+              "text": "Need to plan for pullout 0-2G. Can improve ConOps by adding the operator/human position(s) and role(s).",
+              "complete": "X",
+              "quality": "",
+              "kind": "faculty"
+            },
+            {
+              "category": "Safety",
+              "text": "Need to plan for pullout 0-2G. Reviewers suggested further considering a net and an enclosed volume.",
+              "complete": "",
+              "quality": "",
+              "kind": "faculty"
+            },
+            {
+              "category": "Work schedule",
+              "text": "Ran out of time, but in slide deck.",
+              "complete": "X",
+              "quality": "X",
+              "kind": "faculty"
+            },
+            {
+              "category": "Prototype",
+              "text": "Excellent.",
+              "complete": "X",
+              "quality": "X",
+              "kind": "faculty"
+            },
+            {
+              "category": "General notes",
+              "text": "How will you handle 2G during parabolic flight? Presentation too long, practice timing and clarity for CDR. The R&D Simulation Environment is a nice additional element (verification and validation, V&V).",
+              "complete": "",
+              "quality": "",
+              "kind": "faculty"
+            }
+          ],
+          "text": "16.88J/MAS868 Microgravity Flight Course - PDR rubric\nStudent/Team Name: __CATENA. Universal Self-Folding Strings for Programmable Assembly\nin Microgravity\nReviewer Name: __Newman, Fincke, Hoffman, Schmidt______________\nGood quality,\nrigorous and\nconvincing or\nneeds more\nComplete? work? Notes\nOrg Chart Introduce team upfront. Slide\n17?)\nOverview of concept and X X Many Applications listed. Will\nproject merit need to choose final for CDR.\n(scientific/design/artistic)\nBaseline design X X Excellent CAD. Detailed\n(should include CAD, and electronics (couldn’t read) can\nelectrical system block go in to Appendix/backup.\ndiagram at minimum) Why those specific folding\nsequences? What is new?\nConOps X Need to plan for pullout 0-2G.\n(clear operation plan through Can improve ConOps by\nparabola switches and flight adding the operator/human\nprofile) position(s) and role(s).\nSafety Need to plan for pullout 0-2G.\n(clearly addressed any Reviewers suggested further\nhazards and mitigation considering a net and an\napproaches) enclosed volume.\nWork schedule X X Ran out of time, but in slide\n(feasible, shows realistic deck.\npath to completion and flight\nreadiness)\nPrototype X X Excellent.\n(mockup/proof of concept\nartifact, illustrative of final\ndesign)\nGeneral notes: How will you handle 2G during parabolic flight? Presentation too long, practice\ntiming and clarity for CDR. The R&D Simulation Environment is a nice additional element\n(verification and validation, V&V).",
+          "reviewer": "As listed on original source"
+        }
+      ],
+      "source_type": "consolidated"
+    },
+    {
+      "id": "39fc939236616a986fe34c563f9a340a6d4a46dd91cf9f185a0d89744ad37b0c",
+      "filename": "Hexapod_PDR_GradingRubric_Fall2026.pdf",
+      "uploaded": "20261110T224601775942Z",
+      "origin": "supplied reviews",
+      "pages": [
+        {
+          "number": 1,
+          "team": "hexapod",
+          "mapping_basis": "Name in rubric or filename",
+          "verified": false,
+          "method": "native_table",
+          "limitations": "Text and column extraction need instructor review.",
+          "comments": [
+            {
+              "category": "Org Chart",
+              "text": "Good job on including the whole team.",
+              "complete": "X",
+              "quality": "X",
+              "kind": "faculty"
+            },
+            {
+              "category": "Overview",
+              "text": "A bit rushed. Unclear. Justify and state frequency applicability for vibration damping. Clarify problem statement – what is the vibration control for? Select specific application for CDR.",
+              "complete": "X",
+              "quality": "",
+              "kind": "faculty"
+            },
+            {
+              "category": "Baseline design",
+              "text": "Good slide Req’s for Success and Hypotheses stated. Include text on CAD to explain. Your Budget slide had a nice CAD/text diagram.",
+              "complete": "X",
+              "quality": "X",
+              "kind": "faculty"
+            },
+            {
+              "category": "ConOps",
+              "text": "What is the source of vibrations? Ops during micro and high G – motion sickness risk. How many operators, location, what/where is the payload location? Are there 2 controllers for 0G and 1.8G?",
+              "complete": "",
+              "quality": "",
+              "kind": "faculty"
+            },
+            {
+              "category": "Safety",
+              "text": "Clear. ESDP draft linked, great.",
+              "complete": "X",
+              "quality": "X",
+              "kind": "faculty"
+            },
+            {
+              "category": "Work schedule",
+              "text": "",
+              "complete": "X",
+              "quality": "X",
+              "kind": "faculty"
+            },
+            {
+              "category": "Prototype",
+              "text": "Enjoyed a working prototype and functional design.",
+              "complete": "X",
+              "quality": "X",
+              "kind": "faculty"
+            }
+          ],
+          "text": "16.88J/MAS868 Microgravity Flight Course - PDR rubric\nStudent/Team Name: _Hexapod___________________________________\nReviewer Name: __Newman, Fincke, Hoffman, Schmidt______________\nGood quality,\nrigorous and\nconvincing or\nneeds more\nComplete? work? Notes\nOrg Chart X X Good job on including the\nwhole team.\nOverview of concept and X A bit rushed. Unclear. Justify\nproject merit and state frequency\n(scientific/design/artistic) applicability for vibration\ndamping. Clarify problem\nstatement – what is the\nvibration control for? Select\nspecific application for CDR.\nBaseline design X X Good slide Req’s for Success\n(should include CAD, and and Hypotheses stated.\nelectrical system block Include text on CAD to\ndiagram at minimum) explain. Your Budget slide\nhad a nice CAD/text diagram.\nConOps What is the source of\n(clear operation plan through vibrations? Ops during micro\nparabola switches and flight and high G – motion sickness\nprofile) risk. How many operators,\nlocation, what/where is the\npayload location? Are there 2\ncontrollers for 0G and 1.8G?\nSafety X X Clear. ESDP draft linked,\n(clearly addressed any great.\nhazards and mitigation\napproaches)\nWork schedule X X\n(feasible, shows realistic\npath to completion and flight\nreadiness)\nPrototype X X Enjoyed a working prototype\n(mockup/proof of concept and functional design.\nartifact, illustrative of final\ndesign)",
+          "reviewer": "As listed on original source"
+        },
+        {
+          "number": 2,
+          "team": "hexapod",
+          "mapping_basis": "Name in rubric or filename",
+          "verified": false,
+          "method": "native_text",
+          "limitations": "Text and column extraction need instructor review.",
+          "comments": [
+            {
+              "category": "General notes",
+              "text": "How will errors be measured? Assume this is an attached payload. Need to look at response vs. frequency. Reviewers questions: Frequency and ConOps. What frequency problems are you trying to solve?",
+              "complete": "",
+              "quality": "",
+              "kind": "faculty"
+            }
+          ],
+          "text": "General notes: How will errors be measured? Assume this is an attached payload. Need to\nlook at response vs. frequency. Reviewers questions: Frequency and ConOps. What frequency\nproblems are you trying to solve?",
+          "reviewer": "As listed on original source"
+        }
+      ],
+      "source_type": "consolidated"
+    },
+    {
+      "id": "0dcc32c6405b799a4a11625e071166c8792d021d8599e8b2a963e0ce120cc408",
+      "filename": "LumbarPuncture_PDR_GradingRubric_Fall2026.pdf",
+      "uploaded": "20261110T224602110104Z",
+      "origin": "supplied reviews",
+      "pages": [
+        {
+          "number": 1,
+          "team": "lumbar-puncture",
+          "mapping_basis": "Name in rubric or filename",
+          "verified": false,
+          "method": "native_table",
+          "limitations": "Text and column extraction need instructor review.",
+          "comments": [
+            {
+              "category": "Org Chart",
+              "text": "",
+              "complete": "X",
+              "quality": "X",
+              "kind": "faculty"
+            },
+            {
+              "category": "Overview",
+              "text": "Good/clear Introduction. Statement of problem-specify phenomenon is for ‘some’ astronauts.",
+              "complete": "X",
+              "quality": "X Great Overview section. References well presented.",
+              "kind": "faculty"
+            },
+            {
+              "category": "Baseline design",
+              "text": "Only 1 LP during parabolic flight? Clarify. Will 1 LP on the ground and 1 LP inflight provide you with sufficient data?",
+              "complete": "X",
+              "quality": "X Well described. Nice GUI",
+              "kind": "faculty"
+            },
+            {
+              "category": "ConOps",
+              "text": "Review ISS videos on these types of Ops. Better understanding of operator position and others. How long does the procedure take?",
+              "complete": "X",
+              "quality": "X Ops clearly shown",
+              "kind": "faculty"
+            },
+            {
+              "category": "Safety",
+              "text": "Tether might complicate your experiment. What happens if needles break? Spare parts?",
+              "complete": "X",
+              "quality": "X Good. Slide 11",
+              "kind": "faculty"
+            },
+            {
+              "category": "Work schedule",
+              "text": "",
+              "complete": "X",
+              "quality": "X",
+              "kind": "faculty"
+            },
+            {
+              "category": "Prototype",
+              "text": "",
+              "complete": "X",
+              "quality": "X",
+              "kind": "faculty"
+            },
+            {
+              "category": "General notes",
+              "text": "Measuring stress on operator before and after measurements. Answered questions well. Good presentation and excellent time management. Suggest duct tape to manage all of your items in the glove box (sticky side up). Also, pay attention to the gloves.",
+              "complete": "",
+              "quality": "",
+              "kind": "faculty"
+            }
+          ],
+          "text": "16.88J/MAS868 Microgravity Flight Course - PDR rubric\nStudent/Team Name: __Lumbar Puncture in Weightlessness\nReviewer Name: __Newman, Fincke, Hoffman, Schmidt______________\nGood quality,\nrigorous and\nconvincing or\nneeds more\nComplete? work? Notes\nOrg Chart X X\nOverview of concept and X X Great Good/clear Introduction.\nproject merit Overview Statement of problem-specify\n(scientific/design/artistic) section. phenomenon is for ‘some’\nReferences astronauts.\nwell presented.\nBaseline design X X Well Only 1 LP during parabolic\n(should include CAD, and described. flight? Clarify. Will 1 LP on the\nelectrical system block Nice GUI ground and 1 LP inflight\ndiagram at minimum) provide you with sufficient\ndata?\nConOps X X Ops clearly Review ISS videos on these\n(clear operation plan through shown types of Ops. Better\nparabola switches and flight understanding of operator\nprofile) position and others. How long\ndoes the procedure take?\nSafety X X Good. Slide Tether might complicate your\n(clearly addressed any 11 experiment. What happens if\nhazards and mitigation needles break? Spare parts?\napproaches)\nWork schedule X X\n(feasible, shows realistic\npath to completion and flight\nreadiness)\nPrototype X X\n(mockup/proof of concept\nartifact, illustrative of final\ndesign)\nGeneral notes: Measuring stress on operator before and after measurements. Answered\nquestions well. Good presentation and excellent time management. Suggest duct tape\nto manage all of your items in the glove box (sticky side up). Also, pay attention to the gloves.",
+          "reviewer": "As listed on original source"
+        }
+      ],
+      "source_type": "consolidated"
+    }
+  ],
+  "baselines": {
+    "hexapod": {
+      "headline": "Strong prototype; sharpen the experiment and flight operations.",
+      "strengths": "Faculty praised inclusion of the whole team, the requirements and hypotheses, the working prototype, and the clear safety treatment with a linked ESDP draft. The work schedule was checked positively. [p. 1: Org Chart, Baseline design, Safety, Work schedule, Prototype]",
+      "priorities": [
+        {
+          "title": "Clarify the application and measurement problem.",
+          "faculty_feedback": "The overview was rushed and unclear. Reviewers requested a specific CDR application, justification of the relevant vibration frequencies, response versus frequency, and a method for measuring error. [p. 1: Overview; p. 2: General notes]",
+          "suggested_action": "Prepare a focused problem statement and a test matrix connecting vibration inputs, frequency range, measured response, and error metrics."
+        },
+        {
+          "title": "Make flight operations explicit.",
+          "faculty_feedback": "Reviewers asked about the vibration source, operator number and locations, payload location, motion-sickness risk across gravity phases, and whether there are two controllers for 0G and 1.8G. Attachment of the payload was an assumption to clarify. [p. 1: ConOps; p. 2: General notes]",
+          "suggested_action": "Provide a labeled operations diagram and phase-by-phase procedure that resolves each question; confirm how the payload is mounted."
+        },
+        {
+          "title": "Improve design communication.",
+          "faculty_feedback": "Reviewers requested explanatory text on CAD and highlighted the budget slide's CAD/text diagram as a useful example. [p. 1: Baseline design]",
+          "suggested_action": "Annotate the main CAD view so a reader can identify components and their functions without narration."
+        }
+      ],
+      "source": "PDR_Feedback_Agent_Pilot.pdf",
+      "page": 2,
+      "label": "Imported pilot draft; not regenerated or independently revalidated"
+    },
+    "phytogarden": {
+      "headline": "Convert the background research into a defined, testable flight design.",
+      "strengths": "Faculty recognized the images and inspiration, extensive background research, and geometrical prototypes. [p. 1: Overview, Prototype, General notes]",
+      "priorities": [
+        {
+          "title": "Restore missing review elements.",
+          "faculty_feedback": "The consolidated form identifies the team introduction, safety analysis/mitigation, and work schedule as missing. A scanned review also emphasizes containment during the brief experiment. [PDR_reviews.pdf p. 6: Safety] [p. 1: Org Chart, Safety, Work schedule]",
+          "suggested_action": "Add team roles, a hazard-and-mitigation assessment, and a dated schedule leading to the next review and flight readiness."
+        },
+        {
+          "title": "Define the microgravity experiment.",
+          "faculty_feedback": "Reviewers could not identify the required 0G tests, specific ConOps, test apparatus, or final design clearly. They requested progress on microgravity justification and measurements, and instructed the team to separate air and water channels. [p. 1: Overview, Baseline design, ConOps, General notes]",
+          "suggested_action": "Show the selected design and separate channels; justify the geometry and capillary behavior, and specify what occurs during the flight window, the apparatus, and measurements. [Additional basis: PDR_reviews.pdf pp. 6-7]"
+        },
+        {
+          "title": "Make the essential story presentable.",
+          "faculty_feedback": "Too many slides prevented coverage. Reviewers asked for an 8-10 slide summary, supporting material in an appendix, citations, and an explanation of TPMS. [p. 1: Overview, Baseline design, ConOps, General notes]",
+          "suggested_action": "Build and rehearse a concise deck covering every required rubric element, with references and expanded acronyms."
+        }
+      ],
+      "source": "PDR_Feedback_Agent_Pilot.pdf",
+      "page": 3,
+      "label": "Imported pilot draft; not regenerated or independently revalidated"
+    },
+    "active-textiles": {
+      "headline": "Specify the material choices and demonstrate a contained experimental process.",
+      "strengths": "Faculty noted good initial mass mock-ups and a promising start to the system. The open questions were considered appropriate for PDR leading toward CDR. [p. 1: Prototype, General notes]",
+      "priorities": [
+        {
+          "title": "Resolve containment and experimental operations.",
+          "faculty_feedback": "Although Safety is checked positively, the narrative requires a closed system and testing of that closed system. The cleaning phase, equipment and people locations, and assurance that dust reaches the sample were unclear. [p. 1: Safety, ConOps]",
+          "suggested_action": "Provide a containment test plan and operations diagram showing dust delivery, cleaning, and personnel positions. Explain how performance can be observed inside the closed system and evaluate simplification. [Additional basis: PDR_reviews.pdf pp. 2-3]"
+        },
+        {
+          "title": "Justify materials and simulant choices.",
+          "faculty_feedback": "Reviewers could not determine which fabrics and methods were selected; baseline details were missing. They questioned the chosen dust simulant and whether it represents the fractal nature of lunar dust. [p. 1: Overview, Baseline design, General notes]",
+          "suggested_action": "Identify selected fabrics, cleaning methods, and simulant; explain the comparison to lunar dust and limits on the conclusions the test can support."
+        },
+        {
+          "title": "Add execution and communication details.",
+          "faculty_feedback": "The consolidated rubric requests a schedule, but the individual evidence is mixed: Fincke circles that row (p. 1), while Jeff checks both columns (p. 23). Verify whether the schedule was absent, overlooked, or insufficiently clear. Reviewers also cautioned about unexplained acronyms. [PDR_reviews.pdf pp. 1, 23] [p. 1: Work schedule, General notes]",
+          "suggested_action": "Add a milestone schedule and expand acronyms at first use."
+        }
+      ],
+      "source": "PDR_Feedback_Agent_Pilot.pdf",
+      "page": 4,
+      "label": "Imported pilot draft; not regenerated or independently revalidated"
+    },
+    "lumbar-puncture": {
+      "headline": "Preserve the clear presentation while strengthening the data and operational rationale.",
+      "strengths": "Faculty praised the introduction, references, baseline description, GUI, and operational presentation. They noted effective answers to questions and excellent time management. Every row in the consolidated rubric is checked in both columns; individual comments still request refinements. [p. 1: rubric and General notes]",
+      "priorities": [
+        {
+          "title": "Justify the amount and timing of data collection.",
+          "faculty_feedback": "Reviewers asked whether the plan includes only one lumbar puncture in flight and whether one ground and one inflight procedure yield sufficient data. They also asked how long the procedure takes. [p. 1: Baseline design, ConOps]",
+          "suggested_action": "Specify planned repetitions, timing, measurements, and what conclusions those observations can support. Explain feasibility within the available flight windows."
+        },
+        {
+          "title": "Refine operator setup and contingencies.",
+          "faculty_feedback": "Reviewers recommended examining relevant ISS operations videos and clarifying operator and other personnel positions. They raised tether complications, broken needles, spare parts, glove considerations, and item management in the glove box. Sticky-side-up duct tape was a suggestion. [p. 1: ConOps, Safety, General notes]",
+          "suggested_action": "Prepare an operator layout and contingency procedure addressing these points; evaluate the suggested item-management approach rather than treating it as an approved safety solution."
+        },
+        {
+          "title": "Tighten the scientific framing.",
+          "faculty_feedback": "Reviewers requested qualifying the problem statement to refer to some astronauts. General notes mention measuring operator stress before and after measurements. [p. 1: Overview, General notes]",
+          "suggested_action": "Revise the problem statement and clarify pre/post operator stress measurement. Rebalance presentation detail: Fincke says perhaps too much time was spent on ligament design, despite praising overall time management. [PDR_reviews.pdf p. 14: Prototype, General notes]"
+        }
+      ],
+      "source": "PDR_Feedback_Agent_Pilot.pdf",
+      "page": 5,
+      "label": "Imported pilot draft; not regenerated or independently revalidated"
+    },
+    "catena": {
+      "headline": "Retain the strong technical work and resolve the flight-transition plan.",
+      "strengths": "Faculty praised the CAD and prototype. The consolidated rubric praises the R&D simulation environment, while Fincke questions an R&D object-replacement element; whether these refer to the same feature is unresolved. [PDR_reviews.pdf p. 16: General notes] The schedule was present in the deck, although presentation time ran out. [p. 1: Baseline design, Prototype, Work schedule, General notes]",
+      "priorities": [
+        {
+          "title": "Address pullout and containment.",
+          "faculty_feedback": "Reviewers repeatedly asked how the system handles 0-2G pullout and 2G during flight. Containment advice differs: Fincke suggests an enclosed volume, explicitly not a net; another sheet conditionally suggests a net if recovery can be assured. Operator positions and roles also need clarification. [PDR_reviews.pdf pp. 16, 18] [p. 1: ConOps, Safety, General notes]",
+          "suggested_action": "Show the gravity-phase operating plan, operator roles, and proposed containment approach. Present the competing containment options for faculty resolution and document how the design addresses pullout; do not treat a net as agreed guidance."
+        },
+        {
+          "title": "Choose the application and explain novelty.",
+          "faculty_feedback": "Many applications were listed; reviewers requested a final choice for CDR and asked why the particular folding sequences were selected and what is new. [p. 1: Overview, Baseline design]",
+          "suggested_action": "State one selected application, the folding-sequence rationale, why the design is round, and the specific novel contribution. Clarify the final idea that a reviewer found unclear. [PDR_reviews.pdf p. 18]"
+        },
+        {
+          "title": "Improve presentation access and timing.",
+          "faculty_feedback": "Reviewers requested the team introduction up front, relocation of unreadable detailed electronics to backup material, and better timing and clarity. [p. 1: Org Chart, Baseline design, General notes]",
+          "suggested_action": "Lead with the team, use readable system-level figures, and rehearse a timed deck that reaches the schedule and safety material."
+        }
+      ],
+      "source": "PDR_Feedback_Agent_Pilot.pdf",
+      "page": 6,
+      "label": "Imported pilot draft; not regenerated or independently revalidated"
+    },
+    "vitabee": {
+      "headline": "Condense the presentation and make the flight test achievable.",
+      "strengths": "Faculty called the project interesting and the prototype good. The baseline included a block diagram, CAD, and extensive requirements. [p. 1: Baseline design, Prototype; p. 2: General notes]",
+      "priorities": [
+        {
+          "title": "Cover safety and justify the test configuration.",
+          "faculty_feedback": "Safety coverage was insufficiently clear: Jeff says it was not dealt with, while another sheet says it was covered briefly and requests more information. [PDR_reviews.pdf pp. 19, 21] Reviewers asked whether the cylinder will have wax, requested references, and wanted a clear explanation of the need for microgravity assessment. [p. 1: Safety, Overview]",
+          "suggested_action": "Add a hazard-and-mitigation assessment, identify the cylinder configuration, and distinguish the proposed microgravity test from prior flight work noted by a reviewer. [PDR_reviews.pdf p. 21]"
+        },
+        {
+          "title": "Simplify and check operational feasibility.",
+          "faculty_feedback": "The ConOps was difficult to read and spread across many pages. Reviewers considered three tries per parabola very hard and suggested considering one. [p. 1: ConOps]",
+          "suggested_action": "Prepare a one-page ConOps diagram with detailed procedures in the ESDP. Check trial timing and evaluate a one-try-per-parabola plan; the review does not establish that this plan has been validated."
+        },
+        {
+          "title": "Prioritize essential presentation content.",
+          "faculty_feedback": "Reviewers requested everyone's photo, less time on the overview, requirements moved mostly to appendix/ESDP, and an 8-10 slide main deck. The presentation ran out of time. Fincke notes the team was given only eight minutes; individual sheets also describe an unreadable or unclear schedule. [PDR_reviews.pdf pp. 19, 21-22] [p. 1: Org Chart, Overview, Baseline design; p. 2: General notes]",
+          "suggested_action": "Build and rehearse a concise deck that covers all rubric elements, retaining details in backup material."
+        }
+      ],
+      "source": "PDR_Feedback_Agent_Pilot.pdf",
+      "page": 7,
+      "label": "Imported pilot draft; not regenerated or independently revalidated"
+    }
+  },
+  "updated": "20261110T224602428619Z",
+  "events": [
+    {
+      "time": "20261110T224601590766Z",
+      "message": "Imported ActiveTextilesLunarDust_PDR_GradingRubric_Fall2026.pdf; 2 pages"
+    },
+    {
+      "time": "20261110T224601768594Z",
+      "message": "Imported CATENA_PDR_GradingRubric_Fall2026.pdf; 1 pages"
+    },
+    {
+      "time": "20261110T224602102789Z",
+      "message": "Imported Hexapod_PDR_GradingRubric_Fall2026.pdf; 2 pages"
+    },
+    {
+      "time": "20261110T224602428619Z",
+      "message": "Imported LumbarPuncture_PDR_GradingRubric_Fall2026.pdf; 1 pages"
+    }
+  ]
+}
