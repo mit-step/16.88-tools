@@ -1,0 +1,65 @@
+{
+  "title": "Critical Design Review",
+  "cycle": "CDR evaluation",
+  "criteria": [
+    {
+      "category": "Title and one-liner",
+      "requirement": "Communicative title and crisp, considered project one-liner.",
+      "assignment_page": 1
+    },
+    {
+      "category": "Updated Org Chart",
+      "requirement": "Team members, supervising advisor/PI, and respective roles.",
+      "assignment_page": 1
+    },
+    {
+      "category": "Overview",
+      "requirement": "Purpose, scientific/engineering/design/artistic merit, brief prior art and novelty, success criteria and deployment requirements. Keep the refresher to 2–3 minutes.",
+      "assignment_page": 2
+    },
+    {
+      "category": "Final design",
+      "requirement": "3D models, system block diagrams and electrical schematics; operating L × W × H in inches; PIP 1.8.1 free-body diagrams and G-load calculations; containment and/or aircraft mounting design.",
+      "assignment_page": 2
+    },
+    {
+      "category": "ConOps",
+      "requirement": "Task-by-task, parabola-by-parabola plan for pre-flight, hypergravity, microgravity, normal flight and post-flight. Include human/autonomous actions, cameras and sensor recording. Supports PIP 1.6.11.",
+      "assignment_page": 2
+    },
+    {
+      "category": "Safety",
+      "requirement": "Identify hazards and mitigation for liquids/gels/powders, pressure vessels, animals, lasers, transmitters, magnetic devices and venting. Where relevant: double containment; PIP 1.7.3 and MIT animal protocols; human-subject COUHES update and expected approval timeline.",
+      "assignment_page": 3
+    },
+    {
+      "category": "Work schedule",
+      "requirement": "Weekly testing and integration plan through flight day; Gantt preferred. Allow time for ZERO-G PIP review and modifications before final submission.",
+      "assignment_page": 3
+    },
+    {
+      "category": "Updated Budget",
+      "requirement": "All materials, travel and shipping; explain use or intended use of $300 SEI support.",
+      "assignment_page": 3
+    },
+    {
+      "category": "Intended output",
+      "requirement": "Select a rigorous academic paper, professional video, and/or gallery/narrative presentation suited to the research; plan documentation and conference abstracts.",
+      "assignment_page": 3
+    },
+    {
+      "category": "Prototype",
+      "requirement": "At-scale, demo-ready artifact with all major subsystems functioning. Demonstrate sensor sensing and recording where relevant. Containment/mounting plans may be rough; plane attachments are not required for the demo. Calibration, post-processing and later optimization may follow.",
+      "assignment_page": 3
+    }
+  ],
+  "presentation": "12 minutes presentation and demo (suggested 7 minutes slides and 5 minutes walk-through), followed by 6 minutes discussion.",
+  "profile": "Assignment nominal profile: parabolas 1–2 Martian, 3–4 Lunar, 5–20 zero gravity; nominal five-minute breaks after 5, 10 and 15. Break placement and profile may change with ZERO-G updates.",
+  "pip": "Separate final deliverable: completed draft PIP incorporating CDR and review-panel feedback. Additional hazard forms are not required at that course submission. PIP 1.8.1 is required at CDR; the rest of 1.8 is due with the PIP. Physical/electrical designs lock at final ZERO-G submission; subsequent changes require written ZERO-G approval unless code/calibration changes do not affect PIP statements.",
+  "source_notes": [
+    "The supplied assignment refers to flight in May 2025 and post-flight outputs before the end of 2025. It also lists Dec 1 prototype questions, Dec 3/10 presentations, Dec 8 orders/reimbursements, Dec 13 PIP, Jan/Feb finalization and mid-March ZERO-G submission. Confirm the applicable course calendar; these are source dates, not current deadlines.",
+    "The rubric permits CAD and/or electrical block diagrams at minimum; the assignment requires 3D models, system block diagrams and electrical schematics. Both are retained for instructor interpretation.",
+    "The rubric says plane attachments are not required for the prototype demo; the assignment still requests containment/mounting plans, which may be rough.",
+    "The six team names are carried forward from the PDR workspace as a starting roster. No PDR comments, scores, pilot mappings or summaries are imported."
+  ]
+}

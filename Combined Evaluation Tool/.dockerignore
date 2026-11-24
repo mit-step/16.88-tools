@@ -1,0 +1,24 @@
+**
+!requirements.txt
+!app.py
+!review_suite/
+!review_suite/**
+!PDR Evaluation Tool/
+!PDR Evaluation Tool/pdr_tool.py
+!PDR Evaluation Tool/workspace_app.py
+!PDR Evaluation Tool/web/
+!PDR Evaluation Tool/web/**
+!CDR Evaluation Tool/
+!CDR Evaluation Tool/cdr_tool.py
+!CDR Evaluation Tool/workspace_app.py
+!CDR Evaluation Tool/cdr_requirements.json
+!CDR Evaluation Tool/CDR_gradingRubric.docx
+!CDR Evaluation Tool/FinalProjectCDR_AssignmentDescription.docx.pdf
+!CDR Evaluation Tool/web/
+!CDR Evaluation Tool/web/**
+!ESDP Evaluation Tool/
+!ESDP Evaluation Tool/esdp_review.py
+!ESDP Evaluation Tool/rubric.json
+!ESDP Evaluation Tool/web/
+!ESDP Evaluation Tool/web/**
+**/__pycache__/

@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>16.88J · Design Review Suite</title><link rel="stylesheet" href="/suite/suite.css"></head>
+<body>
+  <header class="suite-header">
+    <a class="suite-brand" href="#pdr"><span class="suite-mark">16</span><span>Design Review Suite<small>16.88J / MAS.838</small></span></a>
+    <nav role="tablist" aria-label="Review tools">
+      <button role="tab" id="tab-pdr" aria-controls="panel-pdr" aria-selected="true" data-tool="pdr">PDR <span>Preliminary design</span></button>
+      <button role="tab" id="tab-cdr" aria-controls="panel-cdr" aria-selected="false" tabindex="-1" data-tool="cdr">CDR <span>Critical design</span></button>
+      <button role="tab" id="tab-esdp" aria-controls="panel-esdp" aria-selected="false" tabindex="-1" data-tool="esdp">ESDP <span>Experiment safety</span></button>
+    </nav>
+    <div class="suite-status"><span id="connection">Connecting…</span><button id="logout" hidden>Sign out</button></div>
+  </header>
+  <main class="suite-body">
+    <section id="panel-pdr" role="tabpanel" aria-labelledby="tab-pdr"><iframe title="PDR evaluation workspace" data-src="/tools/pdr/"></iframe></section>
+    <section id="panel-cdr" role="tabpanel" aria-labelledby="tab-cdr" hidden><iframe title="CDR evaluation workspace" data-src="/tools/cdr/"></iframe></section>
+    <section id="panel-esdp" role="tabpanel" aria-labelledby="tab-esdp" hidden><iframe title="ESDP review workspace" data-src="/tools/esdp/"></iframe></section>
+  </main>
+  <script src="/suite/suite.js"></script>
+</body>
+</html>

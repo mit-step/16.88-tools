@@ -1,0 +1,18 @@
+services:
+  reviews:
+    build: .
+    ports:
+      - "127.0.0.1:8080:8080"
+    environment:
+      REVIEW_PUBLIC_ORIGIN: ${REVIEW_PUBLIC_ORIGIN:-}
+      REVIEW_ACCESS_TOKEN: ${REVIEW_ACCESS_TOKEN:-}
+      REVIEW_TRUST_PROXY: ${REVIEW_TRUST_PROXY:-0}
+      OPENAI_API_KEY: ${OPENAI_API_KEY:-}
+      PDR_MODEL: ${PDR_MODEL:-}
+      CDR_MODEL: ${CDR_MODEL:-}
+      ESDP_MODEL: ${ESDP_MODEL:-}
+    volumes:
+      - review-data:/data
+    restart: unless-stopped
+volumes:
+  review-data:

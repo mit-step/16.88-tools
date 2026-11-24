@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "cycle": "Fall 2026 CDR",
+  "documents": [],
+  "baselines": {},
+  "updated": "20261119T081144511459Z",
+  "events": [
+    {
+      "time": "20261119T081144511459Z",
+      "message": "Workspace initialized"
+    }
+  ],
+  "assessments": {}
+}

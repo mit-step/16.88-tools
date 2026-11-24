@@ -1,0 +1,12 @@
+# Place inside your existing HTTPS server block. Configure TLS separately.
+# Set REVIEW_PUBLIC_ORIGIN=https://your-app.example.edu
+# Set REVIEW_TRUST_PROXY=1 only when this proxy is the sole upstream.
+client_max_body_size 30m;
+location / {
+    proxy_pass http://127.0.0.1:8080;
+    proxy_set_header Host $host;
+    proxy_set_header X-Forwarded-Proto $scheme;
+    proxy_set_header X-Forwarded-For $remote_addr;
+    proxy_read_timeout 240s;
+    proxy_send_timeout 240s;
+}
