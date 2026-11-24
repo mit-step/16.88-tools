@@ -2,12 +2,6 @@
 
 One Python application with **PDR**, **CDR**, and **ESDP** tabs across the top. All three tools run on one port, with one production WSGI server. Their existing workflows, rubric definitions, evidence citations, optional AI modes and exports are preserved. Switching tabs retains the current page, unsaved form inputs and ESDP results.
 
-## Upload to GitHub
-
-Create an empty GitHub repository, then upload the **contents of this folder** to its root, including `.gitignore`, `.dockerignore`, and `.env.example`. GitHub Desktop can also add this folder as a local repository and publish it. The application has not been published automatically.
-
-Keep the three tool directories in place: the shared application loads their engines and assets by their existing names. Local reviews, credentials, virtual environments and generated outputs are excluded from this prepared folder. The included `.gitignore` also excludes these files when you develop locally.
-
 ## Repository layout
 
 ```text
